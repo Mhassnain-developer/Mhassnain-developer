@@ -2,7 +2,7 @@
 <h1 align="center">Search 'Muhammad Hussnain Raza' on Internet or Visit my <a href="https://mhassnain-developer.github.io/portfolio" target="_blank">Portfolio Website</a></h1>
 <h1 align="center">Hi 👋, I'm Muhammad Hussnain Raza</h1>
 <h3 align="center">A Passionate Full Stack Web/Mobile App Developer, AI & Blockchain Enthusiast from Pakistan</h3>
-<h4 align="center">Founder @ DAV Social | Digital Marketer | Technical Project Lead | Instructor | Data Science & AI Explorer | Blockchain | Dapps</h4>
+<h4 align="center"> Digital Marketer | Technical Project Lead | Instructor | Data Science & AI Explorer | Blockchain | Dapps</h4>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=mhassnain-developer" alt="Views">
@@ -18,7 +18,6 @@
 <h3 align="left">👩‍💻 About Me</h3>
 
 <p align="left">
-- 🔭 Currently working as Founder of DAV Social (Digital Marketing Agency)<br>
 - 📚 Skilled in Web/Mobile App Development, AI Tools, Generative AI Agents & Decentralized Applications<br>
 - ⚡ In free time, I write blogs & create content about Technology, Marketing & AI
 </p>
