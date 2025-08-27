@@ -1,5 +1,5 @@
 
-<h1 align="center">Search 'Muhammad Hussnain Raza' on Internet or Visit my <a href="https://mhassnain-developer.github.io/portfolio" target="_blank">Portfolio Website</a></h1>
+<h1 align="center"> Visit my <a href="https://mhassnain-developer.github.io/portfolio" target="_blank">Portfolio Website</a></h1>
 <h1 align="center">Hi 👋, I'm Muhammad Hussnain Raza</h1>
 <h3 align="center">A Passionate Full Stack Web/Mobile App Developer, AI & Blockchain Enthusiast from Pakistan</h3>
 <h4 align="center">Founder @ DAV Social | Digital Marketer | Technical Project Lead | Instructor | Data Science & AI Explorer | Blockchain | Dapps</h4>
