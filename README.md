@@ -8,7 +8,6 @@
   <img src="https://komarev.com/ghpvc/?username=mhassnain-developer" alt="Views">
 </p>
 
-<img src="./gitartwork.svg" alt="Artwork">
 <img src="https://img.shields.io/badge/Joined-2020-blue?style=for-the-badge&logo=github" alt="Joined">
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
@@ -18,8 +17,7 @@
 <h3 align="left">👩‍💻 About Me</h3>
 
 <p align="left">
-- 🔭 Currently working as Founder of DAV Social (Digital Marketing Agency)<br>
-- 📚 Skilled in Web/Mobile App Development, AI Tools, Generative AI Agents & Decentralized Applications<br>
+- 📚 Skilled in Web App Development, AI Tools, Generative AI Agents & Decentralized Applications<br>
 - ⚡ In free time, I write blogs & create content about Technology, Marketing & AI
 </p>
 
